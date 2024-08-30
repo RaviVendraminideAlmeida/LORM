@@ -1,2 +1,2 @@
-# LORM
-Dummy ORM
+# ZORM
+ZIG ORM
